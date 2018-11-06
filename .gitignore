@@ -1,5 +1,5 @@
-.idea
-hooks
+.idea/*
+hooks/*
 info
 HEAD
 config
