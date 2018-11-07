@@ -1,9 +1,9 @@
 puts "Введите 1 сторону треугольника"
-a = gets.chomp.to_i
+a = gets.chomp.to_f
 puts "Введите 2 сторону треугольника"
-b = gets.chomp.to_i
+b = gets.chomp.to_f
 puts "Введите 3 сторону треугольника"
-c = gets.chomp.to_i
+c = gets.chomp.to_f
 
 
 if a > b && a > c
